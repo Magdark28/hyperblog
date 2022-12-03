@@ -1,0 +1,5 @@
+Erase una vez en una aldea muy lejana de cuyo nombre no deseo acordarme. 
+
+Esta es la version de historia.txt solo que no me salia el commit asi que decidi crear otro archivo. 
+
+:D
