@@ -1,7 +1,5 @@
 Erase una vez en una aldea muy lejana de cuyo nombre no deseo acordarme. 
 
-Esta es la version de la clase de configurar multiples colaboradores en un repositorio.
-
-Es decir la clase de las dos personalidades de freddy: anita y el jefe 
+Esta es la version de la clase de fork, es decir, ahora la cuenta juan diego martinez es ahora un colaborador a hyperblog 
 
 Mañana nos enfocaremos en otro aspecto
