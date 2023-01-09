@@ -3,3 +3,5 @@ Erase una vez en una aldea muy lejana de cuyo nombre no deseo acordarme.
 Esta es la version de la clase de fork, es decir, ahora la cuenta juan diego martinez es ahora un colaborador a hyperblog 
 
 Mañana nos enfocaremos en otro aspecto
+
+master 1
